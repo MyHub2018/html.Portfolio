@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head><h1> Ali Haji</h1>
+
+<h4> Home: Toronto, Canada</h2>
+<h4>Email: me@gmal.com </h4>
+<h4> Phone: 416231212</h4>
+<img src="./Mypic.png.jpg" width="150" height="140" alt="Resized Photo">
+<hr />
+
+<body>
+    <h3> <ul> 
+        
+       <li>Summary </h3>
+        Experienced customer service and sales professional with over a decade of expertise in driving business growth, managing teams, and delivering exceptional customer experiences across diverse industries. Demonstrated leadership in roles such as Team Lead at Newfold Digital, where I supervised high-performing sales teams and consistently met key performance metrics. Skilled in client onboarding, relationship management, and achieving sales targets, with a proven track record at companies like IBM and Achilles Information Limited. Fluent in English and Somali, with proficiency in Swahili, and equipped with strong technical and interpersonal skills. Holds a Bachelor’s degree in Business Administration and is adept at working in dynamic, high-volume environments.
+    <hr />
+
+        <li> Education</li>
+        Bachelors Degree in Business Administration
+        Faculty of Economic & Management Science
+<hr />
+
+    <li> Work Experiemce</li>
+    Dynamic professional with extensive experience in sales, customer service, and team leadership across global organizations. Proven ability to manage high-performing teams, exceed sales targets, and deliver exceptional customer experiences in remote and on-site settings. As a Team Lead at Newfold Digital, successfully guided teams to enhance customer satisfaction and drive sales through effective leadership and consultation. Demonstrated expertise in client onboarding, business development, and relationship management at companies like Interconnection Consulting and Achilles Information Limited. Adept at handling large client accounts, providing training to junior associates, and managing CRM systems to streamline operations. Skilled in navigating high-pressure, fast-paced environments while maintaining integrity and excellence in service delivery.
+<hr />
+
+    <li> Skills</li>
+    Sales and Business Development: Proven expertise in achieving sales targets, building client relationships, and driving revenue growth.
+Leadership and Team Management: Skilled in supervising, mentoring, and guiding high-performing teams to meet key performance metrics.
+Customer Service Excellence: Strong ability to deliver exceptional customer experiences, resolve issues efficiently, and foster client loyalty.
+Technical Proficiency: Experienced in CRM tools, data validation, and leveraging technology to optimize customer interactions and sales processes.
+Communication and Interpersonal Skills: Exceptional ability to communicate effectively across diverse cultures and work environments.
+Problem-Solving: Adept at identifying customer needs, proposing tailored solutions, and resolving complex challenges.
+Training and Development: Experienced in coaching junior associates, conducting training sessions, and addressing performance improvement areas.
+Multilingual Abilities: Fluent in English and Somali, with proficiency in Swahili for enhanced communication in diverse settings.
+<hr />
+<footer>
+    <small> Copyright @2024 AH resume. All Rights Reserved.</small>
+</footer>
+</body>
+</html>
